@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="textDate">Date</string>
+    <string name="infoDate">jj-mm_aaaa</string>
+    <string name="textHeure">Heure</string>
+    <string name="infoHeure">hh:mm</string>
+    <string name="textDuree">Durée</string>
+    <string name="infoDuree">hh:mm</string>
+    <string name="textObjet">Objet</string>
+    <string name="infoObjet">Saisir l\'objet du rendez-vous</string>
+    <string name="valider">Valider</string>
+    <string name="annuler">Annuler</string>
+    <string name="le">le</string>
+    <string name="jj_mois">JJ mois</string>
+    <string name="a">à</string>
+    <string name="hh_mm">hh:mm</string>
+    <string name="pendant">pendant</string>
+    <string name="objet">Objet du rendez-vous</string>
+    <string name="nouveau">Nouveau rendez-vous</string>
+</resources>
